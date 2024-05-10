@@ -8,6 +8,7 @@ $\pi_\alpha(x) = \frac{1}{\sqrt{2\pi}} e^{-\frac{x^2}{2}} \left(1 + \sin(\alpha 
 where $\alpha$ is a parameter that you can adjust to see how it affects the function.
 
 $\alpha = 2$
+
 ![alt text](results\image.png)
 
 ![alt text](results\image-1.png)
