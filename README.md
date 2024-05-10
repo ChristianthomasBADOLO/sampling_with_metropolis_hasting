@@ -9,6 +9,6 @@ where $\alpha$ is a parameter that you can adjust to see how it affects the func
 
 $\alpha = 2$
 
-![alt text](results\image.png)
+![image1](results\image.png)
 
-![alt text](results\image-1.png)
+![image2](results\image-1.png)
