@@ -9,6 +9,8 @@ where $\alpha$ is a parameter that you can adjust to see how it affects the func
 
 $\alpha = 2$
 
-![image1](results\image.png)
+![image](https://github.com/ChristianthomasBADOLO/sampling_with_metropolis_hasting/assets/167626485/4a5eba19-22e0-4b63-9391-06cf78ec76bc)
 
-![image2](results\image-1.png)
+
+![image](https://github.com/ChristianthomasBADOLO/sampling_with_metropolis_hasting/assets/167626485/7a92dbe5-f81f-44fc-8877-0e26471149e0)
+
